@@ -21,3 +21,7 @@ Sound effects for each color to assist with memory recall.
 Randomized sequence generation for each new game.
 Score tracking and display.
 Restart button to start a new game.
+
+# Link to play the game
+
+https://harshabapatla.github.io/SimonGame/
